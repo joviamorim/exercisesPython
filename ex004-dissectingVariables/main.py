@@ -1,0 +1,10 @@
+w = input('Type anything: ')
+
+print(f'The primitive type of this value is: {type(w)}')
+print(f'Is it only spaces? {w.isspace()}')
+print(f'Is it a number? {w.isnumeric()}')
+print(f'Is it alphabetic? {w.isalpha()}')
+print(f'Is it alphanumeric? {w.isalnum()}')
+print(f'Is it uppercase? {w.isupper()}')
+print(f'Is it lowercase? {w.islower()}')
+print(f'Is it captalized? {w.istitle()}')
