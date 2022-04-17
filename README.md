@@ -2,7 +2,7 @@
 
 Nesse repositório estarei resolvendo os  exercícios desenvolvidos pelo Curso em Vídeo. No total serão 120 exercícios, abaixo estará o sumário caso esteja procurando um tema específico.
 
-playlist dos exercícios no Youtube: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
+Playlist dos exercícios no Youtube: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
 
 Sumário de exercícios:
 
