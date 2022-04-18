@@ -12,4 +12,4 @@ Playlist dos exercícios no Youtube: https://www.youtube.com/playlist?list=PLHz_
 16 ao 21: Utilizando móudulos<br>
 22 ao 27: Manipulando texto<br>
 28 ao 45: condições<br>
-45 ao 56: Estrutura de repetição for<br>
+46 ao 56: Estrutura de repetição for<br>
