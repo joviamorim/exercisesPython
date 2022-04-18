@@ -4,7 +4,7 @@ Nesse repositório estarei resolvendo os  exercícios desenvolvidos pelo Curso e
 
 Playlist dos exercícios no Youtube: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
 
-Sumário de exercícios:
+# Sumário de exercícios:
 
 1 e 2: Hello World<br>
 3 e 4: Tipos primitivos e saída de dados<br>
@@ -12,3 +12,4 @@ Sumário de exercícios:
 16 ao 21: Utilizando móudulos<br>
 22 ao 27: Manipulando texto<br>
 28 ao 45: condições<br>
+45 ao 56: Estrutura de repetição for<br>
