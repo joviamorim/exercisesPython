@@ -13,3 +13,4 @@ Playlist dos exercícios no Youtube: https://www.youtube.com/playlist?list=PLHz_
 22 ao 27: Manipulando texto<br>
 28 ao 45: condições<br>
 46 ao 56: Estrutura de repetição for<br>
+57 ao 65: Estrutura de repetição While<br>
