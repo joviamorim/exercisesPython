@@ -15,3 +15,7 @@ Playlist dos exercícios no Youtube: https://www.youtube.com/playlist?list=PLHz_
 46 ao 56: Estrutura de repetição for<br>
 57 ao 65: Estrutura de repetição while<br>
 66 ao 71: Interrompendo repetições while<br>
+72 ao 77: Tuplas<br>
+78 ao 83: Listas simples<br>
+84 ao 89: Listas compostas<br>
+90 ao 95: Dicionários<br>
