@@ -19,3 +19,6 @@ Playlist dos exercícios no Youtube: https://www.youtube.com/playlist?list=PLHz_
 78 ao 83: Listas simples<br>
 84 ao 89: Listas compostas<br>
 90 ao 95: Dicionários<br>
+96 ao 106: Funções<br>
+107 ao 112: Módulos e pacotes<br>
+113 ao 115: Tratamento de erros e exceções<br>
